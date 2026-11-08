@@ -72,15 +72,3 @@ match the actual files in the repository.*
 3.  Start the Proteus simulation.
 4.  Adjust the CLOCK input frequency to generate different pulse rates.
 5.  Observe the corresponding RPM readings on the LCD.
-
-## Notes
-
--   The project is demonstrated through Proteus simulation; no physical
-    hardware implementation is included.
--   The optical sensor is represented by an electrical pulse source in
-    the simulation.
--   The implementation is based on an existing reference design and
-    should be reviewed and tested before being presented as independent
-    work.
--   Displayed RPM values may vary due to discrete pulse counting and
-    simulation timing.
