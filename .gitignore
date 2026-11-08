@@ -1,0 +1,54 @@
+# ==============================
+# Keil uVision / C51 build files
+# ==============================
+*.obj
+*.lst
+*.map
+*.plg
+*.bak
+*.tmp
+*.~*
+*.crf
+*.d
+*.axf
+*.dep
+*.iex
+*.htm
+*.lnp
+*.sbr
+*.pbd
+*.sdf
+*.dbg
+
+# Keil output directories
+Objects/
+Listings/
+
+# ==============================
+# Proteus simulation files
+# ==============================
+*.log
+*.rpt
+*.idx
+*.pdsbak
+*.workspace
+
+# ==============================
+# Windows system files
+# ==============================
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# Editor / IDE files
+# ==============================
+.vscode/
+.idea/
+*.swp
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.zip
+*.rar
+*.7z
