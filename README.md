@@ -61,10 +61,6 @@ circuit is demonstrated through Proteus simulation.
 │   └── lcd_output.png
 └── README.md
 ```
-
-*The directory and file names above are illustrative. Update them to
-match the actual files in the repository.*
-
 ## Running the Simulation
 
 1.  Open the Proteus project in the `simulation/` directory.
